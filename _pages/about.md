@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Boyd Graduate Studies Research Center</p>
     <p>200 D. W. Brooks Drive</p>
-    <p>Athens, GA 30606</p>
+    <p>Athens, GA 30602</p>
 
 news: false # includes a list of news items 
 selected_papers: false # includes a list of papers marked as "selected={true}"
