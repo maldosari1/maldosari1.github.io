@@ -6,4 +6,4 @@ description: all research related.
 nav: true
 nav_order: 1
 ---
-<iframe src="https://docs.google.com/viewer?embedded=true&url=your-pdf-file.pdf](https://www.biosciences.uga.edu/sites/default/files/BiologyChecksheetSpring17.pdf" width="600" height="500"></iframe>
+<iframe src="https://docs.google.com/viewer?embedded=true&url=https://www.biosciences.uga.edu/sites/default/files/BiologyChecksheetSpring17.pdf" width="600" height="500"></iframe>
