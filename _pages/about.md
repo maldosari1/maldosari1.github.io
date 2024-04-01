@@ -20,5 +20,5 @@ social: true # includes social icons at the bottom of the page
 
 Hello! I am a Ph.D. student in Computer Science at the School of Computing at the University of Georgia. I am fortunate to be advised by Professor John A. Miller working on time series forecasting. Before joining the University of Georgia, I completed my Master's in Information Science at the School of Computing and Information at the University of Pittsburgh.
 
-Research Interests: [Time Series Forecasting](https://otexts.com/fpp2/what-can-be-forecast.html), [Recursive vs. Direct Forecasting](https://robjhyndman.com/papers/rectify.pdf), [Hierarchical Representation Learning](https://arxiv.org/pdf/1206.5538), [Foundation Models for Forecasting](https://arxiv.org/pdf/2401.13912.pdf).
+Research Interests: [Time Series Forecasting](https://otexts.com/fpp2/what-can-be-forecast.html), [Recursive vs. Direct Forecasting](https://robjhyndman.com/papers/rectify.pdf), [Hierarchical Representation Learning](https://arxiv.org/pdf/1206.5538), [Foundation Models for Forecasting](https://arxiv.org/pdf/2401.13912.pdf), [Evaluating Forecasting Accuracy](https://otexts.com/fpp2/accuracy.html).
 
