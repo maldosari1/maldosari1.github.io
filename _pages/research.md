@@ -6,4 +6,4 @@ description: all research related.
 nav: true
 nav_order: 1
 ---
-<object data="example_pdf.pdf" width="1000" height="1000" type='application/pdf'></object>
+<iframe src="../assets/pdf/example_pdf.pdf" width="100%" height="600px"></iframe>
