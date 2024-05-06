@@ -2,7 +2,7 @@
 layout: page
 permalink: /coursework/
 title: coursework
-description: coursework related.
+description:
 nav: true
 nav_order: 3
 ---
