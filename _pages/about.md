@@ -23,5 +23,5 @@ Hello! I am a Ph.D. student in Computer Science at the School of Computing at th
 Research Interests:
 - Time Series Forecasting
 - Hierarchical Representation Learning
-- Cross-variable Modeling
+- Leading Indicators and Causality
 - Foundation Models for Forecasting
