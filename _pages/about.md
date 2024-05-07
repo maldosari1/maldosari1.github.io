@@ -9,7 +9,7 @@ profile:
   image: mohammed.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Boyd Graduate Studies Research Center</p>
+    <p>Boyd Research and Education Center</p>
     <p>200 D. W. Brooks Drive</p>
     <p>Athens, GA 30602</p>
 
