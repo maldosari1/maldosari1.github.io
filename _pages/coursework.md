@@ -11,4 +11,4 @@ Advanced Coursework:
 - CSCI 8955 Advanced Data Analytics
 - CSCI 8820 Computer Vision
 - CSCO 8945 Advanced Representation Learning
-- CSCI 8000 Advanced Topics in CSCI
+- CSCI 8000 New and Hot Topics in Computer Vision and Deep Learning
